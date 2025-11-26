@@ -69,7 +69,7 @@ python app.py
 O sistema está disponível online pelo Render:
 Uso contramedidas até na versão free para a página não fechar por inatividade, caso feche, aguarde 50 segundos.
 
-➡️ **https://sistema-meta-tool.onrender.com/**
+➡️ **https://production-goal-manager.onrender.com**
 
 ---
 

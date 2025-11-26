@@ -1,7 +1,7 @@
 import time
 import requests
 
-URL = "https://sistema-meta-tool.onrender.com"
+URL = "https://production-goal-manager.onrender.com"
 
 while True:
     try:
