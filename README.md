@@ -2,6 +2,7 @@
 
 Sistema de gerenciamento de metas de produção desenvolvido em **Python + Flask**.  
 Permite cadastrar modelos, calcular metas ajustadas por pessoas e calcular perdas de produção.
+Visualize a aplicação real através do link no final deste README.md.
 
 ---
 
@@ -66,6 +67,7 @@ python app.py
 ## 🔗 Acesso ao Sistema (Deploy)
 
 O sistema está disponível online pelo Render:
+Uso contramedidas até na versão free para a página não fechar por inatividade, caso feche, aguarde 50 segundos.
 
 ➡️ **https://sistema-meta-tool.onrender.com/**
 
